@@ -1,0 +1,16 @@
+body{
+    background: rgb(227,108,225);
+    background: linear-gradient(124deg, rgba(227,108,225,1) 59%, rgba(69,84,252,1) 100%);
+    background-attachment: fixed;
+
+}
+h1, h2{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    font-size: x-large;
+}
+#fotos{
+    text-align: center;
+}

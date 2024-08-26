@@ -1,0 +1,35 @@
+body{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(187,233,175,1) 100%);
+    background-attachment: fixed;
+}
+
+h1, h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#inc{
+    text-align: center;
+}
+
+.container{
+    display: inline-flex;
+}
+
+#ubi{
+    margin-left: 80px;
+}
+
+p{
+    font-size: x-large;
+}
+
+#act{
+    text-align: center;
+    
+}
+
+li{
+    font-size: x-large;
+}
